@@ -8,11 +8,12 @@ Curso de Java Básico da DIO
 > Clique no assunto para acessar
 - [`Anatomia das Classes`](src/edu/gabriel/anatomiaclasses/README.md)
 - [`Tipos e Variáveis`](src/edu/gabriel/tiposevariaveis/README.md)
-- `Operadores`
-- `Métodos`
-- `Escopo`
-- `Palavras reservadas`
-- `Java Doc`
-- `Terminal e Argumentos`
+- [`Operadores`](src/edu/gabriel/operadores/README.MD)
+- [`Métodos`](src/edu/gabriel/metodos/README.md)
+- [`Escopo`](src/edu/gabriel/escopo/README.md)
+- [`Palavras reservadas`](src/edu/gabriel/palavrasreservadas/README.md)
+- [`Java Doc`](https://docs.oracle.com/en/java/)
+- [`Terminal e Argumentos`](src/edu/gabriel/terminalargumentos/)
 
 ## Certificação
+

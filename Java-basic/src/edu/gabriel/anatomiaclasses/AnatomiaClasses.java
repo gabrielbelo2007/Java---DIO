@@ -1,5 +1,5 @@
 package edu.gabriel.anatomiaclasses;
-public class MinhaClasse {
+public class AnatomiaClasses {
     
 // Metodo
     public static void main (String [] args) {
