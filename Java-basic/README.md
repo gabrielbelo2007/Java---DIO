@@ -17,3 +17,4 @@ Curso de Java Básico da DIO
 
 ## Certificação
 
+![Modelo](lib/img/Java-basico.jpg)
