@@ -14,7 +14,7 @@ Curso de Java Básico da DIO
 ## Desafios de código
 
 > Clique no desafio para acessar
-- [`Simulando conta bancária`]()
+- [`Simulando conta bancária`](Conta-banco)
 - [`Sistema de validação de Processo Seletivo`]()
 - [`Aperfeiçoamento de lógica`]()
 - [`Explorando a Sintaxe`]()
