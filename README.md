@@ -6,8 +6,8 @@ Curso de Java Básico da DIO
 
 > Clique no assunto para acessar
 - [`Aprendendo a Sintaxe`](Java-basic)
-- [`Estruturas Condicionais`]()
-- [`Estruturas de Repetição`]()
+- [`Estruturas Condicionais`](Estruturas-condicionais)
+- [`Estruturas de Repetição`](Estruturas-repeticao)
 - [`Tratamento de Exceções`]()
 - [`Debugging`]()
 
