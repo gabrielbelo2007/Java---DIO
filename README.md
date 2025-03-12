@@ -1,21 +1,10 @@
-## Java Básico
+## Bradesco - Java Cloud Native (DIO)
 
-Curso de Java Básico da DIO
+> Java, Spring Boot e o Red Hat OpenShift para deploys de sucesso em nuvem com microsserviços.
+- 90 hrs | Intermediário
 
-## Conteúdo
+### Conteúdo
 
-> Clique no assunto para acessar
-- [`Aprendendo a Sintaxe`](Java-basic)
-- [`Estruturas Condicionais`](Estruturas-condicionais)
-- [`Estruturas de Repetição`](Estruturas-repeticao)
-- [`Tratamento de Exceções`](Estruturas-excepcionais)
-- [`Debugging`]()
-
-## Desafios de código
-
-> Clique no desafio para acessar
-- [`Simulando conta bancária`](Conta-banco)
-- [`Sistema de validação de Processo Seletivo`](Controle-candidatos)
-- [`Controle de Fluxo`](Desafio-Controle-Fluxo)
-- [`Aperfeiçoamento de lógica`]()
-- [`Explorando a Sintaxe`]()
+> Clique na seção para acessar 
+- [`Sintaxe Básica com Java`](Java-sintaxe/README.md)
+- [`Programação Orientada a Objetos`](Java-POO/README.md)
