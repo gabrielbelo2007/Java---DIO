@@ -19,3 +19,6 @@ Controle de fluxo é a habilidade de ajustar a maneira como um programa realiza 
 
 - [Estruturas Condicionais](src/edu/gabriel/estruturasCondicionais/)
 
+## Certificação
+
+![Modelo](lib/img/Estruturas-condicionais.jpg)

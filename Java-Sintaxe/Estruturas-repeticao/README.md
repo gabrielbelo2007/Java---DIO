@@ -19,3 +19,7 @@ Laços repetição (*loops*) ou laços de iteração, são comandos que permitem
 > Clique no assunto para acessar
 
 - [Estruturas de repetição](src/edu/gabriel/estruturasRepeticao/)
+
+## Certificação
+
+![Modelo](lib/img/Estruturas-repeticao.jpg)

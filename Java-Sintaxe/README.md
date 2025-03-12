@@ -9,7 +9,7 @@
 - [`Estruturas Condicionais`](Estruturas-condicionais)
 - [`Estruturas de Repetição`](Estruturas-repeticao)
 - [`Tratamento de Exceções`](Estruturas-excepcionais)
-- [`Debugging`]()
+- `Debugging`
 
 ## Desafios de código
 
@@ -17,5 +17,5 @@
 - [`Simulando conta bancária`](Conta-banco)
 - [`Sistema de validação de Processo Seletivo`](Controle-candidatos)
 - [`Controle de Fluxo`](Desafio-Controle-Fluxo)
-- [`Aperfeiçoamento de lógica`]()
-- [`Explorando a Sintaxe`]()
+- `Aperfeiçoamento de lógica`
+- `Explorando a Sintaxe`

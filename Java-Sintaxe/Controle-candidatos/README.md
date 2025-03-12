@@ -1,6 +1,10 @@
-## Cases
+# Projeto: Validação de Processo Seletivo
 
-Explorando cenários com fluxo condicionais, repetições e excepcionais.
+## Objetivo
+
+Explorar cenários com fluxo condicionais, repetições e excepcionais.
+
+## Descrição
 
 ### Case 1:
 
@@ -45,3 +49,7 @@ O RH deverá realizar uma ligação com no máximo 3 tentativas para cada candid
 
 - "CONSEGUIMOS CONTATO COM *[CANDIDATO]* após *[TENTATIVA]*  TENTATIVA(S)".
 - Caso contrário imprima: "NÃO CONSEGUIMOS CONTATO COM O *[CANDIDATO]*".
+
+## Certificação
+
+![Modelo](lib/img/Validacao-processo-seletivo.jpg)

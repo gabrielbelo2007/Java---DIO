@@ -8,4 +8,8 @@ Curso de Java Básico da DIO
 
 > Clique no assunto para acessar
 
-- [Estruturas de repetição](src/edu/gabriel/estruturasExcepcionais)
+- [Estruturas excepcionais](src/edu/gabriel/estruturasExcepcionais)
+
+## Certificação
+
+![Modelo](lib/img/Estruturas-excepcionais.jpg)

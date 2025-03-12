@@ -3,6 +3,10 @@
 Curso de Java Básico da DIO
 > Seção: Aprendendo a Sintaxe Java
 
+## Descrição
+
+Apresentar as regras essenciais para a construção de códigos com base na linguagem Java.
+
 ## Conteúdo
 
 > Clique no assunto para acessar
