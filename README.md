@@ -15,6 +15,7 @@ Curso de Java Básico da DIO
 
 > Clique no desafio para acessar
 - [`Simulando conta bancária`](Conta-banco)
-- [`Sistema de validação de Processo Seletivo`]()
+- [`Sistema de validação de Processo Seletivo`](Controle-candidatos)
+- [`Controle de Fluxo`](Desafio-Controle-Fluxo)
 - [`Aperfeiçoamento de lógica`]()
 - [`Explorando a Sintaxe`]()
