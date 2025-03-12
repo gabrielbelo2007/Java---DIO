@@ -6,5 +6,5 @@
 ### Conteúdo
 
 > Clique na seção para acessar 
-- [`Sintaxe Básica com Java`](Java-sintaxe/README.md)
+- [`Sintaxe Básica com Java`](Java-Sintaxe/README.md)
 - [`Programação Orientada a Objetos`](Java-POO/README.md)
