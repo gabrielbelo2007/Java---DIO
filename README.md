@@ -8,7 +8,7 @@ Curso de Java Básico da DIO
 - [`Aprendendo a Sintaxe`](Java-basic)
 - [`Estruturas Condicionais`](Estruturas-condicionais)
 - [`Estruturas de Repetição`](Estruturas-repeticao)
-- [`Tratamento de Exceções`]()
+- [`Tratamento de Exceções`](Estruturas-excepcionais)
 - [`Debugging`]()
 
 ## Desafios de código
