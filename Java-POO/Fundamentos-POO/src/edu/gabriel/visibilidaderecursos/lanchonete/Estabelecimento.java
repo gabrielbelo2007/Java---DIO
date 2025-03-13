@@ -2,7 +2,6 @@ package visibilidaderecursos.lanchonete;
 
 import visibilidaderecursos.lanchonete.area_cliente.Cliente;
 import visibilidaderecursos.lanchonete.atendimento.Atendente;
-import visibilidaderecursos.lanchonete.atendimento.cozinha.Almoxarife;
 import visibilidaderecursos.lanchonete.atendimento.cozinha.Cozinheiro;
 
 public class Estabelecimento {
@@ -11,38 +10,39 @@ public class Estabelecimento {
     Cozinheiro cozinheiro = new Cozinheiro();
     // ações que não precisam estar disponíveis para todo estabelecimento
 
-    cozinheiro.lavarIngredientes();
-    cozinheiro.baterVitaminaLiquidificador();
-    cozinheiro.selecionarIngredientesLanche();
-    cozinheiro.prepararLanche();
-    cozinheiro.prepararVitamina();
-    cozinheiro.prepararCombo();
+    // cozinheiro.lavarIngredientes();
+    // cozinheiro.baterVitaminaLiquidificador();
+    // cozinheiro.selecionarIngredientesLanche();
+    // cozinheiro.prepararLanche();
+    // cozinheiro.prepararVitamina();
+    // cozinheiro.prepararCombo();
 
     // ações que o estabelecimento precisa saber
+    // pode ser default
 
     cozinheiro.adicionarSucoNoBalcao();
     cozinheiro.adicionarLancheNoBalcao();
     cozinheiro.AdicionarComboNoBalcao();
 
-    Almoxarife almoxarife = new Almoxarife();
+    // Almoxarife almoxarife = new Almoxarife();
     // ações que não precisam estar disponíveis para todo estabelecimento
     
-    almoxarife.controlarEntrada();
-    almoxarife.controlarSaida();
+    // almoxarife.controlarEntrada();
+    // almoxarife.controlarSaida();
 
     // ações que só o pacote cozinha precisa saber (default)
 
-    almoxarife.entregarIngredientes();
-    almoxarife.trocarGas();
+    // almoxarife.entregarIngredientes();
+    // almoxarife.trocarGas();
 
     Atendente atendente = new Atendente();
-    atendente.pegarLancheCozinha();
+    // atendente.pegarLancheCozinha();
     atendente.receberPagamento();
     atendente.servindoMesa();
 
     // ação que só o pacote cozinha precisa saber (default)
     
-    atendente.trocarGas();
+    // atendente.trocarGas();
 
     Cliente cliente = new Cliente();
     cliente.escolherLanche();
@@ -51,15 +51,15 @@ public class Estabelecimento {
 
     // ação que não deveria, mas ainda não tem normas de atendimento
 
-    cliente.pegarPedidoBalcao();
+    // cliente.pegarPedidoBalcao();
 
     // acão sigilosa
 
-    cliente.consultarSaldoAplicativo();
+    // cliente.consultarSaldoAplicativo();
 
     // clientes não precisam ouvir 
 
-    cozinheiro.pedirParaTrocarGas(almoxarife);
-    cozinheiro.pedirParaTrocarGas(atendente);
+    // cozinheiro.pedirParaTrocarGas(almoxarife);
+    // cozinheiro.pedirParaTrocarGas(atendente);
     }
 }

@@ -1,7 +1,5 @@
 package visibilidaderecursos.lanchonete.atendimento.cozinha;
 
-import visibilidaderecursos.lanchonete.atendimento.Atendente;
-
 public class Cozinheiro {
     public void adicionarLancheNoBalcao() {
         System.out.println("ADICIONANDO LANCHE NATURAL NO BALCÃO");
@@ -16,48 +14,49 @@ public class Cozinheiro {
         adicionarSucoNoBalcao();
     }
 
-    public void prepararLanche() {
+    private void prepararLanche() {
         System.out.println(":PREPARANDO LANCHE");
     }
 
-    public void prepararVitamina() {
+    private void prepararVitamina() {
         System.out.println("PREPARANDO VITAMINA");
     }
 
-    public void prepararCombo() {
+    private void prepararCombo() {
         prepararLanche();
         prepararVitamina();
     }
 
-    public void selecionarIngredientesLanche() {
+    private void selecionarIngredientesLanche() {
         System.out.println("SELECIONANDO O PÃO, SALADA, OVO E CARNE");
     }
 
-    public void selecionarIngredientesVitamina() {
+    private void selecionarIngredientesVitamina() {
         System.out.println("SELECIONANDO FRUTA, LEITE e SUCO");
     }
 
-    public void lavarIngredientes() {
+    private void lavarIngredientes() {
         System.out.println("LAVANDO INGREDIENTES");
     }
 
-    public void baterVitaminaLiquidificador() {
+    private void baterVitaminaLiquidificador() {
         System.out.println("BATENDO VITAMINA LIQUIDIFICADOR");
     }
 
-    public void fritarIngredientesLanche() {
+    private void fritarIngredientesLanche() {
         System.out.println("FRITANDO A CARNE E O OVO");
     }
 
-    public void pedirParaTrocarGas(Atendente meuAmigo) {
+    //
+    // public void pedirParaTrocarGas(Atendente meuAmigo) {
+    //     meuAmigo.trocarGas();
+    // }
+
+    void pedirParaTrocarGas(Almoxarife meuAmigo) {
         meuAmigo.trocarGas();
     }
 
-    public void pedirParaTrocarGas(Almoxarife meuAmigo) {
-        meuAmigo.trocarGas();
-    }
-
-    public void pedirIngredientes(Almoxarife almoxarife) {
+    void pedirIngredientes(Almoxarife almoxarife) {
         almoxarife.entregarIngredientes();
     }
 }
