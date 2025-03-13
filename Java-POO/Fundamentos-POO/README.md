@@ -11,7 +11,9 @@ Abordar os conceitos do paradigma e os pilares da orientação a objetos, classe
 
 > Clique no assunto para acessar
 - [`Conceito de POO`](src/edu/gabriel/conceitoPOO/README.md)
-- [`Classes`]()
+- [`Classes`](src/edu/gabriel/conceitosClasses/README.md)
+- [`Pacotes`](src/edu/gabriel/pacotes/README.md)
+- [`Visibilidade de recursos`]()
 
 ## Certificação
 
