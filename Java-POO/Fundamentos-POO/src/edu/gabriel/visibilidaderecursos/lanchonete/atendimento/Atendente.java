@@ -14,10 +14,12 @@ public class Atendente {
         System.out.println("RECEBENDO PAGAMENTO");
     }
 
+    @SuppressWarnings("unused")
     void trocarGas() {
         System.out.println("ATENDENTE TROCANDO O GAS");
     }
 
+    @SuppressWarnings("unused")
     private void pegarPedidoBalcao() {
         System.out.println("PEGANDO O PEDIDO NO BALCÃO");
     }

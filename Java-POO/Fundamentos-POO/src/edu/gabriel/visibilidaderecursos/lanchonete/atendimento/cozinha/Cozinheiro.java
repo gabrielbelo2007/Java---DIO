@@ -1,5 +1,5 @@
 package visibilidaderecursos.lanchonete.atendimento.cozinha;
-
+@SuppressWarnings("unused")
 public class Cozinheiro {
     public void adicionarLancheNoBalcao() {
         System.out.println("ADICIONANDO LANCHE NATURAL NO BALCÃO");
